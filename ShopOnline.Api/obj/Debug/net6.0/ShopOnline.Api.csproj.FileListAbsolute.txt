@@ -85,3 +85,5 @@ C:\Users\alegu\source\repos\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\r
 C:\Users\alegu\source\repos\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.pdb
 C:\Users\alegu\source\repos\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.genruntimeconfig.cache
 C:\Users\alegu\source\repos\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\ref\ShopOnline.Api.dll
+C:\Users\alegu\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\alegu\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Models.pdb

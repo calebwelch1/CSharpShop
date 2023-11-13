@@ -1147,6 +1147,16 @@
             "rid": "win"
           }
         }
+      },
+      "ShopOnline.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopOnline.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopOnline.Models.dll": {}
+        }
       }
     }
   },
@@ -3307,12 +3317,18 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ShopOnline.Models/1.0.0": {
+      "type": "project",
+      "path": "../ShopOnline.Models/ShopOnline.Models.csproj",
+      "msbuildProject": "../ShopOnline.Models/ShopOnline.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.13",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.13",
+      "ShopOnline.Models >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -3342,7 +3358,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\alegu\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+              "projectPath": "C:\\Users\\alegu\\source\\repos\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
